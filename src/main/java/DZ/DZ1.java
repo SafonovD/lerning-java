@@ -1,4 +1,4 @@
-package lesson_1;
+package DZ;
 
 public class DZ1 {
     public static void main(String[] args) {
