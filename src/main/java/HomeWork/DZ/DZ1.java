@@ -1,4 +1,4 @@
-package DZ;
+package HomeWork.DZ;
 
 public class DZ1 {
     public static void main(String[] args) {

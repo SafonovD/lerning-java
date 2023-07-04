@@ -1,4 +1,4 @@
-package DZ2;
+package HomeWork.DZ2;
 
 import java.util.Scanner;
 
