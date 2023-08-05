@@ -12,7 +12,7 @@ public class ForestMain {
         tree.getInfo();
 
         Squirel squirel = new Squirel();
-        squirel.setColor("red");
+        squirel.setColor("Красная");
         squirel.setAge(2);
         squirel.getInfo();
     }
